@@ -3,6 +3,9 @@ _In milestone 1 we will create a blinky programme using the NUCLEO-F466RE and ST
 
 ### Instruction
 - Step-by-step instruction can be found in _MKEL1123-Group-10/milestone1/milestone-1-instruction.pdf_
+- Path to blinky code:
+  - Extract blinky_.zip
+  - blinky_\Core\Src\main.c
 
 ### Youtube Link
 
