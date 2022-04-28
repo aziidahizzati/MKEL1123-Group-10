@@ -2,7 +2,7 @@
 _In milestone 1 we will create a blinky programme using the NUCLEO-F466RE and STM32 CUBE as an IDE_
 
 ### Instruction
-- Step-by-step instruction can be found in MKEL1123-Group-10/milestone1/milestone-1-instruction.pdf
+- Step-by-step instruction can be found in _MKEL1123-Group-10/milestone1/milestone-1-instruction.pdf_
 
 ### Youtube Link
 
