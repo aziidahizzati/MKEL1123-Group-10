@@ -7,5 +7,6 @@ _In milestone 1 we will create a blinky programme using the NUCLEO-F466RE and ST
 ### Youtube Link
 
 ### Picture of NUCLEO-F466RE   
-![image](https://user-images.githubusercontent.com/104575093/165785721-974c770f-abe1-4769-a892-74894c87ec34.png)   
+[IMG_0563](https://user-images.githubusercontent.com/104577236/165788481-b6fb090e-f6b1-42b1-8a2a-640896d0f7ab.jpg)
+
 
